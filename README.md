@@ -1,4 +1,4 @@
-# CV R. Billiyan Mulkan Ghifari
+# CV - Web App
 
 ![Example CV](public/example-cv.png)
 
